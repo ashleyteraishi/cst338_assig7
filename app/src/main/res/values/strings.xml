@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CST338 Assign 7</string>
+    <string name="header">CSUMB CSIT Online Degree</string>
+    <string name="list_of_classes">\n CST 237 - Intro to Computer Architecture\n
+        MATH 170 - Discrete Mathematics\n
+        MATH 150 - Calculus I\n
+        MATH 151 - Calculus II\n
+        MATH 270 - Mathematics for Computing\n
+        CST 300 - Major ProSeminar\n
+        CST 338 - Software Design\n
+        CST 311 - Intro to Computer Networks\n
+        CST 334 - Operating Systems\n
+        CST 336 - Internet Programming\n
+        CST 370 - Introduction to Database Systems\n
+        CST 438 - Software Engineering\n
+        CST 462 - Race, Gender, Class in the Digital World\n
+        CST 499 - Computer Science Capstone\n
+        CST 383 - Introduction to Data Science\n
+        CST 325 - Graphics Programming</string>
+    <string name="instructions">Enter a course number below to show the course description:</string>
+    <string name="hint">Enter Course Number</string>
+    <string name="search">Search</string>
+    <string name="list_of_courses">List of Courses in Order</string>
+    <string name="logo_description">CSUMB Logo</string>
+
+</resources>
